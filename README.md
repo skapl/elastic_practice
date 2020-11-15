@@ -7,6 +7,7 @@ The data represents all sellings made by the cloth store today.
 
 ## Tasks
 
+Pre-Req: Install Elasticsearch and Kibana in local machine.
 1. ingest the sample data using bulk api.
 1. how to count the number of documents in an index?
 1. write a query for:
