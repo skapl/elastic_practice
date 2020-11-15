@@ -2,7 +2,8 @@
 
 ## Sample data description
 Let's consider a small show cloth store.
-The data represents all the sellings made by the cloth store today.
+
+The data represents all sellings made by the cloth store today.
 
 ## Tasks
 
